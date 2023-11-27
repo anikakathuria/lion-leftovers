@@ -1,0 +1,51 @@
+InventoryID,DiningHallID,FoodItem,Quantity,Price,ExpirationTime,LastUpdated
+1,Chef Mike's,Italian Sub,5,5,2023-11-28,2023-11-23
+2,Grace Dodge,Chocolate Cake,9,2,2023-11-28,2023-11-24
+3,John Jay,Meatloaf,2,9,2023-11-28,2023-11-24
+4,Faculty House,Lobster Roll,7,6,2023-11-29,2023-11-20
+5,Ferris Booth Commons,Baked Ziti,10,7,2023-12-02,2023-11-20
+6,Faculty House,Lobster Roll,3,4,2023-11-28,2023-11-21
+7,Chef Mike's,Turkey Sub,6,8,2023-12-04,2023-11-25
+8,Grace Dodge,Chocolate Cake,7,6,2023-12-02,2023-11-22
+9,John Jay,Mashed Potatoes,4,9,2023-11-30,2023-11-21
+10,JJ's,Chicken Wings,7,5,2023-11-30,2023-11-22
+11,Chef Mike's,Meatball Sub,3,8,2023-12-03,2023-11-22
+12,Grace Dodge,Fruit Salad,7,4,2023-11-30,2023-11-26
+13,Ferris Booth Commons,Baked Ziti,2,4,2023-12-04,2023-11-20
+14,Chef Don's,Hawaiian Pizza,6,8,2023-12-01,2023-11-22
+15,Chef Mike's,Club Sandwich,7,3,2023-11-29,2023-11-20
+16,Ferris Booth Commons,Tofu Stir Fry,3,5,2023-12-01,2023-11-24
+17,Grace Dodge,Fruit Salad,7,9,2023-12-03,2023-11-21
+18,Chef Mike's,Meatball Sub,4,2,2023-12-02,2023-11-26
+19,JJ's,Hot Dogs,1,6,2023-12-03,2023-11-22
+20,John Jay,Mashed Potatoes,2,6,2023-12-04,2023-11-20
+21,Chef Don's,Veggie Pizza,6,7,2023-12-04,2023-11-20
+22,John Jay,Spaghetti,5,5,2023-12-01,2023-11-21
+23,Ferris Booth Commons,Beef Stew,5,8,2023-11-28,2023-11-24
+24,John Jay,Spaghetti,8,10,2023-11-28,2023-11-26
+25,Ferris Booth Commons,Mac and Cheese,5,9,2023-12-04,2023-11-26
+26,Grace Dodge,Caesar Salad,9,3,2023-12-02,2023-11-20
+27,John Jay,Meatloaf,9,4,2023-12-04,2023-11-23
+28,Grace Dodge,Fruit Salad,5,5,2023-12-02,2023-11-25
+29,JJ's,Burgers,2,3,2023-11-30,2023-11-21
+30,JJ's,Fries,8,2,2023-11-28,2023-11-21
+31,Grace Dodge,Cheesecake,4,3,2023-12-01,2023-11-22
+32,Chef Mike's,Turkey Sub,10,10,2023-12-04,2023-11-20
+33,Faculty House,Risotto,4,7,2023-12-04,2023-11-20
+34,Grace Dodge,Cheesecake,2,4,2023-11-28,2023-11-25
+35,Chef Mike's,Meatball Sub,5,4,2023-12-02,2023-11-25
+36,JJ's,Chicken Wings,2,9,2023-11-28,2023-11-25
+37,Ferris Booth Commons,Beef Stew,2,4,2023-11-29,2023-11-22
+38,John Jay,Spaghetti,7,5,2023-11-30,2023-11-22
+39,Faculty House,Lobster Roll,10,9,2023-12-03,2023-11-21
+40,Chef Mike's,Club Sandwich,8,7,2023-12-01,2023-11-22
+41,Faculty House,Risotto,10,9,2023-11-29,2023-11-20
+42,Chef Mike's,Turkey Sub,9,4,2023-11-30,2023-11-25
+43,Ferris Booth Commons,Mac and Cheese,4,7,2023-11-29,2023-11-22
+44,Faculty House,Salmon,6,4,2023-11-29,2023-11-26
+45,Chef Don's,Hawaiian Pizza,8,2,2023-12-03,2023-11-22
+46,John Jay,Mashed Potatoes,5,6,2023-12-04,2023-11-25
+47,JJ's,Nachos,7,9,2023-11-29,2023-11-24
+48,JJ's,Burgers,9,2,2023-12-02,2023-11-24
+49,Ferris Booth Commons,Tofu Stir Fry,5,7,2023-12-04,2023-11-20
+50,Chef Mike's,Veggie Sub,4,8,2023-12-03,2023-11-24
